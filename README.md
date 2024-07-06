@@ -1,1 +1,1 @@
-# Skyward-Grade-Predictor
+# Skyward Grade Predictor
